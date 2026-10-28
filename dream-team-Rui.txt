@@ -8,7 +8,7 @@ Defesas:
 - Andre Almeida (lateral direito)
 - Luisão (central)
 - Humberto Coelho (central)
-- Fábio Coentrão (lateral esquerdo)
+- Grimaldo
 
 Médios:
 - Mário Coluna (capitão)
@@ -21,4 +21,6 @@ Avançados:
 - Di María (ala esquerda)
 
 Editado por Ruben
-Treinador: Pedro Alvares Cabral
+Treinador: Marco Silva
+
+Obv_Rui : Alterei o Defesa Esquerdo para o Grimaldo e o treinador para o Marco Silva
