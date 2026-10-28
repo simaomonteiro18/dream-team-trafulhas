@@ -2,10 +2,10 @@ DREAM TEAM - BENFICA
 Formação: 4-3-3
 
 Guarda-redes:
-- Manuel Bento
+- Samuel Soares
 
 Defesas:
-- Maxi Pereira (lateral direito)
+- Andre Almeida (lateral direito)
 - Luisão (central)
 - Humberto Coelho (central)
 - Fábio Coentrão (lateral esquerdo)
@@ -20,4 +20,5 @@ Avançados:
 - Eusébio (ponta de lança)
 - Di María (ala esquerda)
 
-Treinador: Béla Guttmann
+Editado por Ruben
+Treinador: Pedro Alvares Cabral
