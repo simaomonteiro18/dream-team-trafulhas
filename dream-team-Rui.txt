@@ -8,7 +8,7 @@ Defesas:
 - Andre Almeida (lateral direito)
 - Luisão (central)
 - Humberto Coelho (central)
-- Fábio Coentrão (lateral esquerdo)
+- Grimaldo
 
 Médios:
 - Mário Coluna (capitão)
@@ -23,8 +23,14 @@ Avançados:
 
 Editado por Ruben
 <<<<<<< HEAD
+<<<<<<< HEAD
 O Ricardo prime 1968 é overrated
 Treinador: Pedro Alvares Cabral
+=======
+Treinador: Marco Silva
+
+Obv_Rui : Alterei o Defesa Esquerdo para o Grimaldo e o treinador para o Marco Silva
+>>>>>>> 240a25790dc50d3fb92e59cddaad2b3d83c482a8
 =======
 Treinador: Jorge Jesus
 
