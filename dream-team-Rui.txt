@@ -2,7 +2,7 @@ DREAM TEAM - BENFICA
 Formação: 4-3-3
 
 Guarda-redes:
-- Samuel Soares
+- Michel Preud'homme
 
 Defesas:
 - Andre Almeida (lateral direito)
@@ -14,7 +14,6 @@ Médios:
 - Mário Coluna (capitão)
 - Rui Costa
 - Pablo Aimar
-- Ricardo Baptista
 
 Avançados:
 - Chalana (ala direita)
@@ -36,3 +35,7 @@ Treinador: Jorge Jesus
 
 Obv: troquei o treinador porque não gostei do anterior
 >>>>>>> 4d270d3e539df427ad9634ead45559f374c35577
+
+=======
+
+Obs_Simão : Troquei o GR para Michel Preud'homme
