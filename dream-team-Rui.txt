@@ -21,6 +21,12 @@ Avançados:
 - Di María (ala esquerda)
 
 Editado por Ruben
+<<<<<<< HEAD
 Treinador: Marco Silva
 
 Obv_Rui : Alterei o Defesa Esquerdo para o Grimaldo e o treinador para o Marco Silva
+=======
+Treinador: Jorge Jesus
+
+Obv: troquei o treinador porque não gostei do anterior
+>>>>>>> 4d270d3e539df427ad9634ead45559f374c35577
