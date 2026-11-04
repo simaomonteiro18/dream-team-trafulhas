@@ -1,6 +1,6 @@
 Aluno: Simão Monteiro
 Treinador: Monteiro
-Capitão: Rúben Dias
+Capitão: Humberto Coelho
 Estádio: Estádio do Sport Lisboa e Benfica
 
 Nº     Posição    Jogador
