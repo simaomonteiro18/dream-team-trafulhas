@@ -2,16 +2,16 @@
 
 - Aluno: Ricardo
 - Treinador: Borges
-- Capitão: Otamendi
+- Capitão: Pavlidis
 - Estádio / Alcunha: Os Três Grandes
 
 # Seleção (Benfica + Porto + Sporting)
 
 | Nº | Posição | Jogador         | Clube    |
 |----|---------|-----------------|----------|
-| 1  | GR      | Diogo Costa     | FC Porto |
+| 1  | GR      | Thibaut Courtois| Real Madrid|
 | 2  | DD      | Bah             | Benfica  |
-| 3  | DC      | Kiwior          | FC Porto |
+| 3  | DC      | Ruben Dias      | FC Porto |
 | 4  | DC      | Bednarek        | FC Porto |
 | 5  | DE      | Maxi Araújo     | Sporting |
 | 6  | MDC     | João Palhinha   | Benfica  |
