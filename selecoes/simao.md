@@ -13,5 +13,5 @@ Nº     Posição    Jogador
 7      ED         Gaitán
 8      MC         Bernardo Silva
 9      PL         Jonas
-10     MCO        Aimar
+10     MO        Aimar
 11     EE         Di Maria
