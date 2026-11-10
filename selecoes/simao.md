@@ -14,3 +14,4 @@ Nº     Posição    Jogador
 8      MC         Bernardo Silva
 9      PL         Jonas
 10     MO        Aimar
+11     EE         Di Maria
