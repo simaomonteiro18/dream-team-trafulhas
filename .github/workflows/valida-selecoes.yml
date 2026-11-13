@@ -1,0 +1,18 @@
+name: valida-selecoes
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obter o código do repositório
+        uses: actions/checkout@v4
+
+      - name: Validar as fichas
+        run: bash scripts/valida.sh
