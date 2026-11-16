@@ -1,4 +1,4 @@
-name: Release
+name: release
 
 on:
   push:
@@ -9,11 +9,16 @@ permissions:
   contents: write
 
 jobs:
-  release:
+  publicar:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Criar release
-        run: gh release create "$GITHUB_REF_NAME" --generate-notes
+      - name: Obter o código do repositório
+        uses: actions/checkout@v4
+
+      - name: Validar antes de publicar
+        run: bash scripts/valida.sh
+
+      - name: Criar a Release
+        run: gh release create "${{ github.ref_name }}" --title "Dream Team ${{ github.ref_name }}" --generate-notes
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
