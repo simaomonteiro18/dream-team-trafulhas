@@ -1,7 +1,27 @@
-name: Ola
-on: [push]
+name: ola-actions
+
+on:
+  push:
+  workflow_dispatch:
+
 jobs:
   ola:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Olá, GitHub Actions!"
+      - name: Dizer olá
+        run: echo "Olá, ${{ github.actor }}! Este workflow correu por causa de um ${{ github.event_name }}."
+
+      - name: Onde estou?
+        run: |
+          echo "Branch: ${{ github.ref_name }}"
+          echo "Commit: ${{ github.sha }}"
+          pwd
+          ls -la
+
+      - name: Obter o código do repositório
+        uses: actions/checkout@v4
+
+      - name: E agora?
+        run: |
+          ls -la
+          git log --oneline -5
