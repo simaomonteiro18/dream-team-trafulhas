@@ -11,7 +11,4 @@ Capitão: Mário Coluna
 7 MC Rui Costa
 8 MC Pablo Aimar
 9 ED Chalana
-10 PL Eusébio
-
-
 11 EE Di María
