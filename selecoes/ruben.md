@@ -1,6 +1,6 @@
 Aluno: Ruben
 Treinador: Roberto Martínez
-Capitão:
+Capitão: Cristiano Ronaldo
 
 1 GR Diogo Costa
 2 DD João Cancelo
