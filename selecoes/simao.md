@@ -7,7 +7,7 @@ Nº     Posição    Jogador
 1      GR	  Ederson		
 2      DD         Nélson Semedo
 3      DC         Rúben Dias
-4      DC         Otamendi
+4      GR         Otamendi
 5      DE         Grimaldo
 6      MD         Matic
 7      ED         Gaitán
