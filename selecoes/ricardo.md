@@ -13,4 +13,3 @@ Estádio / Alcunha: Os Três Grandes
 8 MC Aursnes (Benfica)
 9 PL Pavlidis (Benfica)
 10 SA Zalazar (Sporting)
-11 PE Prestianni (Benfica)
